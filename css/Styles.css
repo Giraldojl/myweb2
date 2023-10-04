@@ -35,10 +35,12 @@ body
 }
 #container h1
 {
-font-size: 20px;
+  color:sienna;
+  font-size: 20px;
 }
 #container h2
 {
     font-size: 12px;
     color: silver
 }
+
