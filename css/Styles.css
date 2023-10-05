@@ -44,6 +44,7 @@ font-size: 20px;
 #container h2
 {
     font-size: 12px;
+<<<<<<< HEAD
     color: silver;
 }
 #post{
@@ -54,4 +55,14 @@ font-size: 20px;
 {
   color: blueviolet;
   font-size: 22px;
+=======
+    color: silver
+}
+#love
+{
+  bottom: 0;
+  left: 0;
+  color: #456;
+  padding: 0,25em;
+>>>>>>> footer
 }
