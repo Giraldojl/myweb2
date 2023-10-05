@@ -31,8 +31,8 @@ body
 }
 #container
 {
-  width: 70%;
-  padding: 1em;
+  width: 90%;
+  padding: 3em;
   text-align: left;
   border: 1px solid #ddd;
   margin: 0 auto
@@ -44,7 +44,6 @@ font-size: 20px;
 #container h2
 {
     font-size: 12px;
-<<<<<<< HEAD
     color: silver;
 }
 #post{
@@ -55,8 +54,13 @@ font-size: 20px;
 {
   color: blueviolet;
   font-size: 22px;
-=======
-    color: silver
+}
+#container ps2
+{
+  font-size: 30px;
+  color: aquamarine;
+  padding: 2em;
+  margin: 2em;
 }
 #love
 {
@@ -64,5 +68,4 @@ font-size: 20px;
   left: 0;
   color: #456;
   padding: 0,25em;
->>>>>>> footer
 }
